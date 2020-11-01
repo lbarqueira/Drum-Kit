@@ -4,6 +4,8 @@
 - querySelector
 - querySelectorAll
 - addEventListener
+- classList.add
+- classList.remove
 
 # Functionalities:
 - detecting button press
